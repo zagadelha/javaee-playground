@@ -1,0 +1,11 @@
+javaee8\repository\AuthorRepository.class
+javaee8\resources\BookResource.class
+javaee8\JAXRSConfiguration.class
+javaee8\entity\AbstractEntity.class
+javaee8\dto\BookDTO.class
+javaee8\repository\BookRepository.class
+javaee8\service\BookService.class
+javaee8\resources\JavaEE8Resource.class
+javaee8\entity\AuthorEntity.class
+javaee8\repository\AbstractRepository.class
+javaee8\entity\BookEntity.class
